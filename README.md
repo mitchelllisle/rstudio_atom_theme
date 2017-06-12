@@ -13,3 +13,5 @@ and drag and drop the file in this repo without renaming it. It will replace the
 
 Note: This works for RStudio Version 1.1.268. Anything > than 1.1.268 may not work if the stylesheet names change. 
 Or any other fundamental changes are made to the styling in RStudio. 
+
+![image](https://user-images.githubusercontent.com/18128531/27059158-6c0ed8a6-5018-11e7-9b02-6e7f5c556ab0.png)
